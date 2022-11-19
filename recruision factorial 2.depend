@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668852080 source:c:\users\mariu\onedrive\documents\codeblocksprojects\cppproject\recruision factorial 2\recruision factorial 2\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
